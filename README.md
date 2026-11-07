@@ -20,7 +20,6 @@ Install Node.js (LTS) and MySQL Server. MySQL Workbench is optional and can be u
 1. Extract the ZIP.
 2. Open this folder in VS Code.
 3. In MySQL Workbench, open `database.sql` and execute the complete script.
-4. Copy `.env.example` to a new file named `.env`.
 5. Set `DB_USER`, `DB_PASSWORD`, `DB_HOST` and `SESSION_SECRET` in `.env`.
 6. In VS Code terminal run:
    ```bash
